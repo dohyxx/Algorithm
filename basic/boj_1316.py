@@ -1,4 +1,7 @@
 
+"""
+백준 1316번 그룹 단어 체커
+"""
 
 import sys
 input = sys.stdin.readline

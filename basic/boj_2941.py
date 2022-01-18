@@ -1,4 +1,8 @@
 
+
+"""
+백준 2941번 크로아티아 알파벳
+"""
 import sys
 input = sys.stdin.readline
 
