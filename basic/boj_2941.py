@@ -15,3 +15,6 @@ for i in alpha:
        print(str)
 
 print(len(str))
+
+
+

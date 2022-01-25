@@ -10,6 +10,7 @@ input = sys.stdin.readline
 X = int(input())
 stage, key_X = 1, 1
 
+# X보다 클 때까지 반복
 while key_X + stage <= X:
     key_X += stage
     stage += 1
@@ -22,3 +23,7 @@ if stage % 2 == 0: #짝수일때
     print('{}/{}'.format(x, y))
 else:
     print('{}/{}'.format(y, x))
+
+
+
+
